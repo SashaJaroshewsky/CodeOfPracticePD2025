@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ2", "PZ2\PZ2.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ3", "PZ3\PZ3.csproj", "{52F59F37-3964-4327-87D1-008849F16C4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryAccounting.API", "InventoryAccounting.API\InventoryAccounting.API.csproj", "{0430C8DF-4EC4-4099-A4FE-4AF16E0009B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{52F59F37-3964-4327-87D1-008849F16C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52F59F37-3964-4327-87D1-008849F16C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52F59F37-3964-4327-87D1-008849F16C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0430C8DF-4EC4-4099-A4FE-4AF16E0009B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0430C8DF-4EC4-4099-A4FE-4AF16E0009B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0430C8DF-4EC4-4099-A4FE-4AF16E0009B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0430C8DF-4EC4-4099-A4FE-4AF16E0009B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
