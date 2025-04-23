@@ -1,0 +1,6 @@
+@UBook.APi_HostAddress = http://localhost:5159
+
+GET {{UBook.APi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
