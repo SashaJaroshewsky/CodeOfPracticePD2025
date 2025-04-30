@@ -1,0 +1,6 @@
+@WebBooks.API_HostAddress = http://localhost:5032
+
+GET {{WebBooks.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
