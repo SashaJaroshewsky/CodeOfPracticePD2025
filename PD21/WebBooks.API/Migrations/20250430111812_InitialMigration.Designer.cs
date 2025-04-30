@@ -11,8 +11,8 @@ using WebBooks.API.Repository.Context;
 namespace WebBooks.API.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250423120154_InitialMigratin")]
-    partial class InitialMigratin
+    [Migration("20250430111812_InitialMigration")]
+    partial class InitialMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

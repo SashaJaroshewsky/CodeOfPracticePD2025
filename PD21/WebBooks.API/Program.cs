@@ -10,9 +10,6 @@ namespace WebBooks.API
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            
-
-
             builder.Services.Register(builder.Configuration);
 
             // Add services to the container.
