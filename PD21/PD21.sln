@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryAccounting.API", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBooks.API", "WebBooks.API\WebBooks.API.csproj", "{DBA16587-03EC-4C9E-A171-22E1EFF9F3F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateProd", "DelegateProd\DelegateProd.csproj", "{9E0D83ED-0D16-4950-A7E6-AD10F741410F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DBA16587-03EC-4C9E-A171-22E1EFF9F3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBA16587-03EC-4C9E-A171-22E1EFF9F3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBA16587-03EC-4C9E-A171-22E1EFF9F3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E0D83ED-0D16-4950-A7E6-AD10F741410F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0D83ED-0D16-4950-A7E6-AD10F741410F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0D83ED-0D16-4950-A7E6-AD10F741410F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0D83ED-0D16-4950-A7E6-AD10F741410F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
